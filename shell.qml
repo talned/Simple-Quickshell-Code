@@ -8,7 +8,7 @@ PanelWindow {
     right: true
   }
 
-  implicitHeight: 45
+  implicitHeight: 46
   color: "black"
 
   Text {
