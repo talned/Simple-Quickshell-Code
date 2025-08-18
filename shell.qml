@@ -20,12 +20,4 @@ PanelWindow {
         font.family: "JetBrains Mono ExtraBold"
     }
 
-    Text {
-        x: 10
-        y: 7
-        text: "Made By Quickshell"
-        color: "white"
-        font.pointSize: 15
-    }
-
 }
