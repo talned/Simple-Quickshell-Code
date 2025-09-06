@@ -33,8 +33,8 @@ ShellRoot {
 
                 color: "black"
                 border.color: "white"
-                border.width: 2
-                radius: 6
+                border.width: 1
+                radius: 0
                 
                 Text {
                     id: timeText

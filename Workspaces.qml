@@ -24,14 +24,14 @@ Item {
                 id: workspaceButton
                 width: 45
                 height: 38
-                radius: 6
+                radius: 0
                 
                 // Black background for all workspaces
                 color: "black"
                 
                 // White border for focused workspace
                 border.color: modelData.focused ? "white" : "transparent"
-                border.width: modelData.focused ? 2 : 0
+                border.width: modelData.focused ? 1 : 0
                 
                 // Workspace number display
                 Text {

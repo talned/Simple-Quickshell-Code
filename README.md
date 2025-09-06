@@ -1,2 +1,2 @@
 # Simple-Quickshell-Code
-This is my own quickshell top bar used in my Hyprland Setup.
+This is my own quickshell code written in QML
